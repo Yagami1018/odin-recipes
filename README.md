@@ -1,0 +1,1 @@
+This project is my first walktrough at TheOdinProject.com, starting from scratch, this is my recipes repo, the first assignment in fundamentals, I demonstrate the acquired skills of html and put them in practice
